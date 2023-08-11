@@ -1,4 +1,4 @@
-Transform a 3000*1500 data frame to 75000*40 within 1 minute.\
+Transform a $3000\times1500$ data frame to $75000\times40$ within 1 minute.\
 There are only input and output files. So understand the data structures in both files by myself.\
 HKU FINA2390, Nov 2023
 
